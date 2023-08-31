@@ -35,6 +35,13 @@ body {
   gap: 0.5rem;
   width: 100%;
 }
+.city{
+  background-color: white;
+  color: black;
+  border-radius: 3rem;
+  padding: 0.4em 1em;
+  width: fit-content;
+}
 
 /* DEFAULT */
 
